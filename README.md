@@ -1,7 +1,7 @@
 # Text to Morse Code Converter
 
-Have you always wanted to leanr Morse Code? This is a simple Python project that converts text, numbers into **Morse code**.  
-This project is designed to help beginners practice Python basics, loops, dictionaries, and string manipulation while having fun with Morse code.
+Have you always wanted to learn Morse Code? This is a simple Python project that converts text, numbers into **Morse code**.  
+This project is designed to help beginners practice Morse code while having fun.
 
 ---
 
@@ -21,10 +21,6 @@ This project is designed to help beginners practice Python basics, loops, dictio
    - If not (punctuation, space, etc.), it’s left unchanged  
 4. The resulting Morse code symbols are **joined with spaces** and printed  
 
----
 
-## Usage
-1. Clone or download the repository  
-2. Run the Python script:
 
 
